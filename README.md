@@ -32,12 +32,12 @@ EXTRA COMPLEMENTS
 implementation 'com.jakewharton:butterknife:8.8.1'
 annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 
-## MATERIAL ELEMENTS
+# MATERIAL ELEMENTS
 - RecyclerView
 - AppBar
 - CardView
 
-## API * [GitHub API](https://api.github.com/)
+# API [GitHub API](https://api.github.com/)
 
 
 SEE MY PROJECTS IN * [BEHANCE](https://www.behance.net/emmchier/)
