@@ -22,18 +22,15 @@ implementation 'com.squareup.retrofit2:retrofit:2.4.0'
 implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
 implementation 'com.google.code.gson:gson:2.8.5'
 
+- Room
+implementation 'android.arch.persistence.room:runtime:1.1.1'
+annotationProcessor "android.arch.persistence.room:compiler:1.1.1"
+
+
 EXTRA COMPLEMENTS
 - ButterKnife
 implementation 'com.jakewharton:butterknife:8.8.1'
 annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
-
-- Glide
-implementation 'com.github.bumptech.glide:glide:3.8.0'
-annotationProcessor 'com.github.bumptech.glide:compiler:4.7.1'
-
-- Room
-implementation 'android.arch.persistence.room:runtime:1.1.1'
-annotationProcessor "android.arch.persistence.room:compiler:1.1.1"
 
 ## MATERIAL ELEMENTS
 - RecyclerView
