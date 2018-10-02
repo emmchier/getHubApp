@@ -37,9 +37,9 @@ annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 - AppBar
 - CardView
 
-# [GitHub API](https://api.github.com/)
+* [GitHub API](https://developer.github.com/v4/)
 
 
-SEE MY PROJECTS IN * [BEHANCE](https://www.behance.net/emmchier/)
+SEE MY PROJECTS IN [BEHANCE](https://www.behance.net/emmchier/)
 
 
